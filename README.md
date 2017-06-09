@@ -21,4 +21,6 @@ Quartz.NET允许开发人员根据时间间隔（或天）来调度作业。它�
 具体使用例子可参考我在博客园的文章：
 
 http://www.cnblogs.com/Wolfmanlq/p/5873235.html 轮询执行
+
+
 http://www.cnblogs.com/Wolfmanlq/p/5918864.html 定点执行
