@@ -1,0 +1,2 @@
+Y:\Downloads\JobScheduleDemoCode (1)\JobSchedule\JobSchedule\obj\Debug\JobSchedule.ProjectInstaller.resources
+Y:\Downloads\JobScheduleDemoCode (1)\JobSchedule\JobSchedule\obj\Debug\JobSchedule.csproj.GenerateResource.Cache
